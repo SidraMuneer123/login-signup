@@ -1,4 +1,4 @@
-import { Todo } from '../todo.js';
+import { Todo } from '../models/todo.js';
 // import { User } from "..Schema.js";
 
 

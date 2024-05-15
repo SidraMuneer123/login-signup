@@ -1,4 +1,4 @@
-import { User } from '../Schema.js';
+import { User } from '../models/User.js';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 const SECRET_KEY = 'TodoApi';
